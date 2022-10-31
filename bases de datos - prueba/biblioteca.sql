@@ -1,0 +1,1 @@
+SELECT * FROM biblioteca.autor_tiene_libro;
